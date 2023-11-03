@@ -13,5 +13,6 @@ A simple weather app built with Flutter that displays current weather conditions
 Flutter
 Dart 
 
-##Acknowledgments
-Thanks to Rivaan Ranawat (@Rivaan Ranawat) for providing the tutorial. Check out his channel for more flutter tutorials.
+#Acknowledgments
+  Thanks to Rivaan Ranawat (@Rivaan Ranawat) for providing the tutorial. Check out his channel for more flutter 
+  tutorials.
